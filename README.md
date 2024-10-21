@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/iamfauzi16/dashboard-saml-azure-fortify/blob/master/background%20github.jpg?raw=true)
 # Dashboard Admin Include Multi Authentication With SAML for Azure & Fortify
 
 Dashboard Admin yang saya buat  adalah aplikasi Laravel yang dirancang untuk menyediakan solusi dashboard administrasi dengan dukungan multi-autentikasi menggunakan SAML menggunakan Microsoft Azure dan Laravel Fortify. Aplikasi ini memungkinkan pengguna untuk melakukan autentikasi dengan berbagai metode, termasuk SSO (Single Sign-On) menggunakan SAML dan autentikasi berbasis username/password.
